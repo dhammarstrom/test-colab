@@ -1,0 +1,16 @@
+
+# This is our gitignore file - Add comments for each new entry.
+
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+
+# R project specific files
+.Rproj.user
+*.Rproj
+
+
