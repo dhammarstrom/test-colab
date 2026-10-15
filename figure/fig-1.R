@@ -1,6 +1,6 @@
 # This is the new figure
 
-# a comment
+# a comment with an addition
 
 library(tidyverse)
 
