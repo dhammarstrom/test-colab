@@ -1,5 +1,7 @@
 # This is the new figure
 
+# a comment
+
 library(tidyverse)
 
 exscidata::hbmass |>
